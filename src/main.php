@@ -3,7 +3,8 @@
 include_once "SpaceWeb/SpaceWebAPI.php";
 use SpaceWeb\SpaceWebAPI;
 
-include_once __DIR__ . "/env.php";
+include_once "../env.php";
+echo $_SERVER['DOCUMENT_ROOT'];
 
 $LOGIN = $_ENV["LOGIN"];
 $PASSWORD = $_ENV["PASSWORD"];
