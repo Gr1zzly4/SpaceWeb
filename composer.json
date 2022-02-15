@@ -1,5 +1,7 @@
 {
     "require": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+        "vlucas/phpdotenv": "^5.4",
+        "phpdocumentor/phpdocumentor": "2.9.1"
     }
 }

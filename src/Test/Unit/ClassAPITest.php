@@ -1,6 +1,8 @@
 <?php
 require_once "src/SpaceWeb/ClassAPI.php";
+
 use PHPUnit\Framework\TestCase;
+use SpaceWeb\ClassAPI;
 
 class ClassAPITest extends TestCase{
 

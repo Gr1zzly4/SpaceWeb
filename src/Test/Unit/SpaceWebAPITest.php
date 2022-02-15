@@ -1,7 +1,9 @@
 <?php
 
 require_once "src/SpaceWeb/SpaceWebAPI.php";
+
 use PHPUnit\Framework\TestCase;
+use SpaceWeb\SpaceWebAPI;
 
 class SpaceWebAPITest extends TestCase{
 
