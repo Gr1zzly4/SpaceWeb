@@ -1,5 +1,5 @@
  # SpaceWebTask
- Result of my task for "WebTask"
+ Result of my task for "SpaceWeb"
 
 ## The purpose of the task
 It is necessary to write a class (or several classes within the same namespace) that will implement the mechanism of interaction with the API (sending requests and processing responses). It is also necessary to implement two methods of interaction:
